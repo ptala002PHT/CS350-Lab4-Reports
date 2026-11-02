@@ -6,7 +6,7 @@
 
 # 
 
-# \* \[Tests](./tests/test/)
+# \- \[Tests](./tests/test/)
 
-# \* \[JavaDoc](./javadoc/)
+# \- \[JavaDoc](./javadoc/)
 
